@@ -56,5 +56,14 @@ tmp/
 !README.md
 !README.*.md
 
-# Agent 上下文目录
+# ============================================================
+# Agent 上下文 / 本地 AI 工具目录，一律不入库
+# ============================================================
 .workbuddy/
+.codex/
+.codebuddy/
+.claude/
+.cursor/
+.aider*
+.copilot/
+.continue/
